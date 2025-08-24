@@ -1,6 +1,6 @@
 # Basic Router & Switch Setup Lab  
 
-This lab demonstrates a simple setup with one router, one switch, and two PCs.  
+This lab demonstrates a simple setup with one router, one switch, and one PCs.  
 
 ## Topology  
 ![Basic Topology](http://github.com/hectorsenbanjo/ccna-networking-portfolio/fundamentals/basic_router_switch_setup.png)  
