@@ -3,7 +3,7 @@
 This lab demonstrates a simple setup with one router, one switch, and two PCs.  
 
 ## Topology  
-![Basic Topology](http://github.com/hectorsenbanjo/CCNA-NETWORKING-PORTFOLIO/fundamentals/basic_router_switch_setup.png)  
+![Basic Topology](http://github.com/hectorsenbanjo/ccna-networking-portfolio/fundamentals/basic_router_switch_setup.png)  
 
 ## Key Configurations  
 - Router IP: 192.168.10.1/24  
